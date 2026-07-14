@@ -2,7 +2,7 @@
 title: "Course Home"
 ---
 
-Welcome to **Micro:bit Robot Rally** — a hands-on robotics and engineering course
+Welcome to **Micro:bit Robot Riot** — a hands-on robotics and engineering course
 where students build and program robots, then put them to work in competitive
 games. Students drive first, then learn to program the BBC Micro:bit in MakeCode to
 control motors, sensors, and a 2.4 GHz radio link — building toward races, tag,

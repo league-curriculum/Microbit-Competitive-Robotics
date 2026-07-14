@@ -34,7 +34,7 @@ the course's two halves: *what students program* (CSTA) and *how they engineer*
 | Sensors & Line-following | 2-AP-12/17, 2-CS-03, MS-ETS1-3/-4 |
 | Radio & Infrared Comms | 2-AP-16, 2-NI-04 (partial), 2-CS-02 |
 | Attachments & 3D Parts | MS-ETS1-1/-2/-4 |
-| Robot Rally Games | 2-AP-12/13/17, MS-ETS1-2/-3 |
+| Robot Riot Games | 2-AP-12/13/17, MS-ETS1-2/-3 |
 
 ## Coverage upgrades adopted
 

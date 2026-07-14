@@ -1,5 +1,5 @@
 baseURL = "/Microbit-Robot-Rally/"
-title = "Micro:bit Robot Rally"
+title = "Micro:bit Robot Riot"
 theme = "hugo-theme-voidmain"
 enableEmoji = true
 
@@ -29,7 +29,7 @@ enableEmoji = true
     endLevel = 4
 
 [params]
-  description = "A modular grades 6-8 robotics and engineering course where students program the BBC Micro:bit, Cutebot, and Joystick:bit in MakeCode to build robots and compete in robot-rally games."
+  description = "A modular grades 6-8 robotics and engineering course where students program the BBC Micro:bit, Cutebot, and Joystick:bit in MakeCode to build robots and compete in robot-riot games."
   copyright = "The League of Amazing Programmers"
   license = "CC BY-NC 4.0"
   curriculum_version = "0.20260617.1"

@@ -1,4 +1,4 @@
-title: Micro:bit Robot Rally
+title: Micro:bit Robot Riot
 uid: 1d04be12-52d5-4b43-add3-81a3732d84c4
 type: course
 tier: 2
@@ -9,4 +9,4 @@ prerequisites: []
 lessons: 3
 estimated_weeks: 12
 repo_url: https://github.com/league-curriculum/Microbit-Robot-Rally
-description: A modular grades 6-8 robotics and engineering course where students program the BBC Micro:bit, Cutebot, and Joystick:bit in MakeCode to build robots and compete in robot-rally games.
+description: A modular grades 6-8 robotics and engineering course where students program the BBC Micro:bit, Cutebot, and Joystick:bit in MakeCode to build robots and compete in robot-riot games.

@@ -33,6 +33,6 @@ extensions. Only pure-micro:bit (no-robot) resources are conflict-free.
 No existing curriculum covers these, so the course builds them from scratch:
 
 - **Infrared device-to-device messaging** (`pxt-leagueir`)
-- **The Robot Rally games** (race, tag, capture-the-flag, soccer, sumo)
+- **The Robot Riot games** (race, tag, capture-the-flag, soccer, sumo)
 - **Attachments & 3D-printed Technic parts**
 - **The Drive-Day "hook-first" onboarding** and the **engineering-notebook spine**
