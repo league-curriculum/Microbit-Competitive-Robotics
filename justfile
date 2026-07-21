@@ -13,6 +13,10 @@ dev:
 parts:
     cd tools/render-parts && npm install --no-audit --no-fund --silent && npm run generate
 
+# Flash a classroom set of micro:bits: pick joystick/cutebot, then hot-swap devices
+load:
+    python3 microbit-loader/load_microbit.py
+
 # Build the full static site into site/public (regenerates 3D parts first)
 build: parts
     curik hugo build
