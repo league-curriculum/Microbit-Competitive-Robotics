@@ -1,12 +1,12 @@
-title: Micro:bit Robot Riot
-uid: 1d04be12-52d5-4b43-add3-81a3732d84c4
+title: Competitive Robotics
+uid: 9b7443c3-45f1-4883-be37-4def02f0ea55
 type: course
-tier: 2
-grades: 6-8
-category: block-programming
-topics: ["micro:bit", "robotics", "MakeCode", "engineering design", "sensors", "radio and infrared communication"]
+tier: 3
+grades: 7-12
+category: Robotics
+topics: ["micro:bit", "robotics", "Nezha", "MakeCode", "TypeScript", "sensors", "differential drive", "calibration", "motion control", "3D printing"]
 prerequisites: []
-lessons: 3
+lessons: 19
 estimated_weeks: 12
-repo_url: https://github.com/league-curriculum/Microbit-Robot-Rally
-description: A modular grades 6-8 robotics and engineering course where students program the BBC Micro:bit, Cutebot, and Joystick:bit in MakeCode to build robots and compete in robot-riot games.
+repo_url: https://github.com/league-curriculum/Microbit-Competitive-Robotics
+description: A competitive robotics class where students build a micro:bit robot on the ElecFreaks Nezha board, drive it by joystick, add line and color sensing, then move to closed-loop drive code with calibration, motion profiles and PID control.

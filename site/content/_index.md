@@ -2,12 +2,15 @@
 title: "Course Home"
 ---
 
-Welcome to **Micro:bit Robot Riot** — a hands-on robotics and engineering course
-where students build and program robots, then put them to work in competitive
-games. Students drive first, then learn to program the BBC Micro:bit in MakeCode to
-control motors, sensors, and a 2.4 GHz radio link — building toward races, tag,
-capture-the-flag, and robot soccer.
+Welcome to **Competitive Robotics**. Students build their own robot on a BBC
+micro:bit and an ElecFreaks Nezha board, drive it from a joystick, teach it to
+follow a line, and then move it onto closed-loop drive code that knows how far
+it has gone and where it is.
 
-Start with the **Foundation** sequence below, then branch into the modular tracks.
-Instructors: see the **Programs** section for ready-made code and the **Instructors**
-section for standards alignment and reference curricula.
+This course is at the outline stage. The **Course Outline** lists what we talk
+about and roughly when: building and driving, sensors, the Nezha robot
+template, the robot console and calibration, the building workshops, and the
+later talks on motion and control.
+
+Students move at different speeds, so the outline is a list of topics rather
+than a week-by-week plan.

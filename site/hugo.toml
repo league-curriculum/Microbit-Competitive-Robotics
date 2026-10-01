@@ -1,5 +1,5 @@
-baseURL = "/Microbit-Robot-Rally/"
-title = "Micro:bit Robot Riot"
+baseURL = "/Microbit-Competitive-Robotics/"
+title = "Competitive Robotics"
 theme = "hugo-theme-voidmain"
 enableEmoji = true
 
@@ -16,6 +16,12 @@ enableEmoji = true
 [[module.mounts]]
   source = "data"
   target = "data"
+# Publish the working course outline as a section of the site. The outline is
+# a Curik outline document (edit it there, not here), so the site and the
+# planning document are one file and cannot drift.
+[[module.mounts]]
+  source = "../.course/outlines/course-outline.md"
+  target = "content/outline/_index.md"
 
 [markup]
   [markup.goldmark.renderer]
@@ -29,9 +35,9 @@ enableEmoji = true
     endLevel = 4
 
 [params]
-  description = "A modular grades 6-8 robotics and engineering course where students program the BBC Micro:bit, Cutebot, and Joystick:bit in MakeCode to build robots and compete in robot-riot games."
+  description = "A competitive robotics class where students build a micro:bit robot on the ElecFreaks Nezha board, drive it by joystick, add line and color sensing, then move to closed-loop drive code with calibration, motion profiles and PID control."
   copyright = "The League of Amazing Programmers"
   license = "CC BY-NC 4.0"
-  curriculum_version = "0.20260617.1"
+  curriculum_version = "0.20261001.1"
   curik_version = "0.20260519.1"
   instructorGuide = true
