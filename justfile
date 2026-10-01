@@ -13,11 +13,7 @@ load:
 
 # Build the full static site into site/public
 build:
-    curik hugo build
-
-# Validate the whole course
-validate:
-    curik validate course
+    hugo --minify --source site
 
 # Push master to trigger the GitHub Pages deploy (commit your changes first)
 deploy:

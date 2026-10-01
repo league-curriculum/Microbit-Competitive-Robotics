@@ -1,7 +1,6 @@
 ---
-title: Course Outline
-created: 2026-10-01T17:47:11Z
-approved: false
+title: "Course Outline"
+weight: 10
 ---
 
 # Competitive Robotics — Course Outline

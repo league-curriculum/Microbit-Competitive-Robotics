@@ -16,12 +16,6 @@ enableEmoji = true
 [[module.mounts]]
   source = "data"
   target = "data"
-# Publish the working course outline as a section of the site. The outline is
-# a Curik outline document (edit it there, not here), so the site and the
-# planning document are one file and cannot drift.
-[[module.mounts]]
-  source = "../.course/outlines/course-outline.md"
-  target = "content/outline/_index.md"
 
 [markup]
   [markup.goldmark.renderer]
@@ -39,5 +33,4 @@ enableEmoji = true
   copyright = "The League of Amazing Programmers"
   license = "CC BY-NC 4.0"
   curriculum_version = "0.20261001.1"
-  curik_version = "0.20260519.1"
   instructorGuide = true
