@@ -14,9 +14,9 @@ tools the instructor uses to flash and manage the robots.
 
 ## For students
 
-### nezha-robot-template
+### pxt-nezbot
 
-<https://github.com/League-Microbit/nezha-robot-template>
+<https://github.com/League-Robotics/pxt-nezbot>
 
 The project you start from. It is a MakeCode project, so you can open it in
 the MakeCode editor or in VS Code, and it already includes the DiffDrive
