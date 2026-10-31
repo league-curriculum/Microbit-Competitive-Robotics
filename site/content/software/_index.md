@@ -24,6 +24,13 @@ extension and a few example programs (drive in a circle or a square,
 calibrate the wheels, calibrate turning). Each release on its Releases page
 is a ready-to-flash hex of the calibration program.
 
+### pxt-nezha-guvug
+
+<https://github.com/League-Robotics/pxt-nezha-guvug>
+
+An example MakeCode program for Guvug. Start here to try line following and
+programmed motions, then update the parameters to tune the robot's behavior.
+
 ### pxt-nezha-diffdrive
 
 <https://github.com/League-Robotics/pxt-nezha-diffdrive>

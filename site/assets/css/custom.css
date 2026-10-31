@@ -279,3 +279,22 @@
   white-space: nowrap;
 }
 .part-actions a:hover { background: var(--color-bg-subtle); }
+
+/* Page layout ---------------------------------------------------- */
+/* Content sits against the sidebar instead of centered in the main column */
+.content,
+.bottom-of-page {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+/* Images fit the column; tall phone photos don't run past the screen */
+.content img {
+  max-width: 100%;
+  max-height: 75vh;
+  width: auto;
+  height: auto;
+}
+
+/* No heading chips in the sticky header; the sidebar outline does that job */
+.jump-row { display: none; }
